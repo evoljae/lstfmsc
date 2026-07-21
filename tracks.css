@@ -76,7 +76,7 @@ a:hover {
   width: 100%;
   height: var(--header-height);
   background-color: #787;
-  background-image: var(--header-background);
+  background-image: ;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
