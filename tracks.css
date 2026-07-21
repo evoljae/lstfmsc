@@ -17,6 +17,7 @@
   container-type: inline-size;
   overflow: clip;
   max-height: 100%;
+  wdith:100%;
   opacity: 1;
   color: rgb(34 34 34); /* #222; */
   background-color: #50418f;
